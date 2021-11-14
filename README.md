@@ -41,5 +41,7 @@ It can be from a fixed var that you edit while reloading or from your app state.
 
 ## Deps
 
-
+```clojure
+io.github.davesann/reagent-dynamic-css {:git/sha "f624a38" :git/tag "v1"}
+```
 
